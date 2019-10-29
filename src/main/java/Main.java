@@ -74,7 +74,7 @@ public class Main {
                 Thread.sleep(2000);
             }
         } catch (Exception e) {
-            
+
         } finally {
             driver.close();
         }
